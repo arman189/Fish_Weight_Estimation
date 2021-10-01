@@ -1,5 +1,5 @@
 # Fish_Weight_Estimation
-Fish Weight Estimation is a predictive model using machine learning algorithm named logistic regression which predicts the weight of fist based on various factor.
+Fish Weight Estimation is a predictive model using machine learning algorithm named logistic regression which predicts the weight of fish based on various factor.
 
 <br/>**Objectives:-**  To estimate the fish weight.
 <br/>**Software Used:-** Anaconda, Jupyter Notebook, pyqt5
